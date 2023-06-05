@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "961564264462",
+    "project_id": "academia-584ac",
+    "storage_bucket": "academia-584ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961564264462:android:3766dd3ab5a981d1fa145f",
+        "android_client_info": {
+          "package_name": "com.example.financas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961564264462-uvu7jcr47q079uakps9bolv69srrlied.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBoryvCR8hNHAD93Iw8vofUG056579ts8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961564264462-uvu7jcr47q079uakps9bolv69srrlied.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
